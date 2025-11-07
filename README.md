@@ -71,7 +71,17 @@ CleanS3 is a desktop application built with PyQt6 that provides a user-friendly 
 
 ## 📸 Screenshots
 
-> _Screenshots coming soon..._
+### Main Application Window
+
+![CleanS3 Application](docs/images/image.png)
+
+The CleanS3 application features a clean and intuitive interface with three main tabs:
+
+- **Configuration Tab**: Manage AWS credentials and performance settings
+- **Clean Bucket Tab**: Delete all objects from an S3 bucket
+- **Copy Objects Tab**: Copy objects between S3 buckets
+
+The application includes real-time progress tracking, operation controls (pause/stop), and comprehensive logging.
 
 ## 📦 Requirements
 
